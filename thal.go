@@ -1,6 +1,7 @@
 package secstruct
 
 /*
+#cgo LDFLAGS: -lm
 #include "primer3/thal.c"
 #include "primer3/thal_parameters.c"
 */
